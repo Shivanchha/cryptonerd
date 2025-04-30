@@ -1,8 +1,31 @@
-# React + Vite
+# 💹 Cryptonerd – Real-Time Cryptocurrency Price Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoTracker is a modern and responsive web application built with **React JS** that provides real-time cryptocurrency data using the **CoinGecko API**. Track price movements, market caps, 24-hour changes, and visualize trends with interactive charts — all in one sleek dashboard.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🔍 **Search Bar** – Quickly search and view details for any listed cryptocurrency.
+- 📈 **Live Price Chart** – View the historical performance of a coin over the past year using an interactive line chart.
+- 💰 **Real-Time Price** – Get up-to-date pricing data for major cryptocurrencies.
+- 🏷️ **Market Data** – See market cap, rank, 24h price change, and more.
+- 📱 **Responsive UI** – Mobile-friendly and built with modern design principles.
+
+---
+
+## 🔗 Live Demo
+
+🌐 [Visit the Live App](https://cryptonerd.netlify.app/)  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React JS**
+- **Vite** (for lightning-fast build and dev experience)
+- **Charting Library**: Google Charts
+- **CoinGecko API** – for fetching real-time data
+- **CSS / Tailwind / Styled Components** – customizable depending on your choice
+
+---
