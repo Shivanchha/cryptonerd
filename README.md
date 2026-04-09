@@ -1,6 +1,6 @@
-# 💹 Cryptonerd – Real-Time Cryptocurrency Price Tracker
+# 💹 CryptoNerd – Real-Time Cryptocurrency Price Tracker
 
-CryptoTracker is a modern and responsive web application built with **React JS** that provides real-time cryptocurrency data using the **CoinGecko API**. Track price movements, market caps, 24-hour changes, and visualize trends with interactive charts — all in one sleek dashboard.
+CryptoNerd is a modern and responsive web application built with **React JS** that provides real-time cryptocurrency data using the **CoinGecko API**. Track price movements, market caps, 24-hour changes, and visualize trends with interactive charts — all in one sleek dashboard.
 
 ---
 
